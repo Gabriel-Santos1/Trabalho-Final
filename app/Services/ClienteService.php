@@ -12,7 +12,23 @@ class ClienteService
     {
         $this->clienteModel = new ClienteModel();
     }
-
+    public function getClienteById($id)
+    {
+        return $this->clienteModel->find($id);
+    }
+    public function authenticate($login,$password){
+        $cliente = $this->clienteModel->where('login', $login)->first();
+        if ($cliente['login'] && $cliente['pass']) {
+            return [
+                'status' => 'success',
+                'data' =>  $cliente
+            ];
+        }
+        return [
+            'status' => 'error',
+            'message' => 'Credenciais inválidas.'
+        ];
+    }
     public function getClientes()
     {
         /*

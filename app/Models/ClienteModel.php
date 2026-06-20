@@ -14,7 +14,7 @@ class ClienteModel extends Model
     protected $returnType     = 'array';
     protected $useSoftDeletes = false;
 
-    protected $allowedFields = ['id', 'login', 'password'];
+    protected $allowedFields = ['id', 'login', 'pass'];
 
     protected bool $allowEmptyInserts = false;
     protected bool $updateOnlyChanged = true;

@@ -8,5 +8,5 @@ use CodeIgniter\Router\RouteCollection;
 
 // Rotas publicas
 $routes->get('/', 'Home::index');
-$routes->get('/login', 'Client::login');
-$routes->post('/authenticate', 'Client::authenticate');
+$routes->get('/login', 'Cliente::login');
+$routes->post('/authenticate', 'Cliente::authenticate');

@@ -1,0 +1,481 @@
+CRITICAL - 2026-06-20 20:12:21 --> Error: Class "App\Services\ClienteService" not found
+[Method: POST, Route: authenticate]
+in APPPATH\Config\Services.php on line 16.
+ 1 SYSTEMPATH\Config\BaseService.php(251): Config\Services::cliente(false)
+ 2 APPPATH\Config\Services.php(13): CodeIgniter\Config\BaseService::getSharedInstance('cliente')
+ 3 SYSTEMPATH\Config\BaseService.php(321): Config\Services::cliente()
+ 4 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('cliente', [])
+ 5 SYSTEMPATH\Common.php(1027): CodeIgniter\Config\BaseService::get('cliente')
+ 6 APPPATH\Controllers\Client.php(16): service('cliente')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Client->authenticate()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:15:53 --> Error: Class "App\Services\ClienteService" not found
+[Method: POST, Route: authenticate]
+in APPPATH\Config\Services.php on line 16.
+ 1 SYSTEMPATH\Config\BaseService.php(251): Config\Services::cliente(false)
+ 2 APPPATH\Config\Services.php(13): CodeIgniter\Config\BaseService::getSharedInstance('cliente')
+ 3 SYSTEMPATH\Config\BaseService.php(321): Config\Services::cliente()
+ 4 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('cliente', [])
+ 5 SYSTEMPATH\Common.php(1027): CodeIgniter\Config\BaseService::get('cliente')
+ 6 APPPATH\Controllers\Client.php(16): service('cliente')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Client->authenticate()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:15:54 --> Error: Class "App\Services\ClienteService" not found
+[Method: POST, Route: authenticate]
+in APPPATH\Config\Services.php on line 16.
+ 1 SYSTEMPATH\Config\BaseService.php(251): Config\Services::cliente(false)
+ 2 APPPATH\Config\Services.php(13): CodeIgniter\Config\BaseService::getSharedInstance('cliente')
+ 3 SYSTEMPATH\Config\BaseService.php(321): Config\Services::cliente()
+ 4 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('cliente', [])
+ 5 SYSTEMPATH\Common.php(1027): CodeIgniter\Config\BaseService::get('cliente')
+ 6 APPPATH\Controllers\Client.php(16): service('cliente')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Client->authenticate()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:15:55 --> Error: Class "App\Services\ClienteService" not found
+[Method: POST, Route: authenticate]
+in APPPATH\Config\Services.php on line 16.
+ 1 SYSTEMPATH\Config\BaseService.php(251): Config\Services::cliente(false)
+ 2 APPPATH\Config\Services.php(13): CodeIgniter\Config\BaseService::getSharedInstance('cliente')
+ 3 SYSTEMPATH\Config\BaseService.php(321): Config\Services::cliente()
+ 4 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('cliente', [])
+ 5 SYSTEMPATH\Common.php(1027): CodeIgniter\Config\BaseService::get('cliente')
+ 6 APPPATH\Controllers\Client.php(16): service('cliente')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Client->authenticate()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:16:11 --> Error: Class "App\Services\ClienteService" not found
+[Method: POST, Route: authenticate]
+in APPPATH\Config\Services.php on line 16.
+ 1 SYSTEMPATH\Config\BaseService.php(251): Config\Services::cliente(false)
+ 2 APPPATH\Config\Services.php(13): CodeIgniter\Config\BaseService::getSharedInstance('cliente')
+ 3 SYSTEMPATH\Config\BaseService.php(321): Config\Services::cliente()
+ 4 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('cliente', [])
+ 5 SYSTEMPATH\Common.php(1027): CodeIgniter\Config\BaseService::get('cliente')
+ 6 APPPATH\Controllers\Client.php(16): service('cliente')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Client->authenticate()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:16:32 --> ErrorException: Array to string conversion
+[Method: POST, Route: authenticate]
+in APPPATH\Controllers\Client.php on line 27.
+ 1 APPPATH\Controllers\Client.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\Users\\gabri\\OneDrive\\Documentos\\Faculdade\\2026\\Trabalho-Final\\app\\Controllers\\Client.php', 27)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Client->authenticate()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:21:46 --> ErrorException: Array to string conversion
+[Method: POST, Route: authenticate]
+in APPPATH\Controllers\Cliente.php on line 27.
+ 1 APPPATH\Controllers\Cliente.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\Users\\gabri\\OneDrive\\Documentos\\Faculdade\\2026\\Trabalho-Final\\app\\Controllers\\Cliente.php', 27)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:22:28 --> Error: Call to a member function toArray() on array
+[Method: POST, Route: authenticate]
+in APPPATH\Controllers\Cliente.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:41:44 --> ErrorException: Attempt to read property "password" on array
+[Method: POST, Route: authenticate]
+in APPPATH\Services\ClienteService.php on line 21.
+ 1 APPPATH\Services\ClienteService.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "password" on array', 'C:\\Users\\gabri\\OneDrive\\Documentos\\Faculdade\\2026\\Trabalho-Final\\app\\Services\\ClienteService.php', 21)
+ 2 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate('Gabriel', '2015')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-06-20 20:46:22 --> mysqli_sql_exception: Unknown column 'password' in 'where clause' in C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\BaseModel.php(715): CodeIgniter\Model->doFirst()
+#6 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\app\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+#7 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\app\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate(Array, '2015')
+#8 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+#9 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#10 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2026-06-20 20:46:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'where clause'
+[Method: POST, Route: authenticate]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:46:22 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 7 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:46:22 --> [Caused by] mysqli_sql_exception: Unknown column 'password' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-06-20 20:47:13 --> mysqli_sql_exception: Unknown column 'password' in 'where clause' in C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\BaseModel.php(715): CodeIgniter\Model->doFirst()
+#6 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\app\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+#7 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\app\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate(Array, '2015')
+#8 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+#9 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#10 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2026-06-20 20:47:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'where clause'
+[Method: POST, Route: authenticate]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:47:13 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 7 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:47:13 --> [Caused by] mysqli_sql_exception: Unknown column 'password' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-06-20 20:47:14 --> mysqli_sql_exception: Unknown column 'password' in 'where clause' in C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\BaseModel.php(715): CodeIgniter\Model->doFirst()
+#6 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\app\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+#7 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\app\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate(Array, '2015')
+#8 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+#9 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#10 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2026-06-20 20:47:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'where clause'
+[Method: POST, Route: authenticate]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:47:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 7 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:47:14 --> [Caused by] mysqli_sql_exception: Unknown column 'password' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-06-20 20:47:20 --> mysqli_sql_exception: Unknown column 'password' in 'where clause' in C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\BaseModel.php(715): CodeIgniter\Model->doFirst()
+#6 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\app\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+#7 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\app\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate(Array, '2015')
+#8 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+#9 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#10 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\gabri\OneDrive\Documentos\Faculdade\2026\Trabalho-Final\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2026-06-20 20:47:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'where clause'
+[Method: POST, Route: authenticate]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:47:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 7 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:47:20 --> [Caused by] mysqli_sql_exception: Unknown column 'password' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `clientes`
+WHERE `password` = \'2015\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clientes`
+WHERE `password` = :password:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(715): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Services\ClienteService.php(21): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate([...], '2015')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:51:19 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: authenticate]
+in APPPATH\Services\ClienteService.php on line 21.
+ 1 APPPATH\Services\ClienteService.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'C:\\Users\\gabri\\OneDrive\\Documentos\\Faculdade\\2026\\Trabalho-Final\\app\\Services\\ClienteService.php', 21)
+ 2 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate('Gabriel', '2015')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-06-20 20:51:21 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: authenticate]
+in APPPATH\Services\ClienteService.php on line 21.
+ 1 APPPATH\Services\ClienteService.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'C:\\Users\\gabri\\OneDrive\\Documentos\\Faculdade\\2026\\Trabalho-Final\\app\\Services\\ClienteService.php', 21)
+ 2 APPPATH\Controllers\Cliente.php(21): App\Services\ClienteService->authenticate('Gabriel', '2015')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Cliente->authenticate()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
